@@ -1,0 +1,30 @@
+.bg-hero{
+    background-image: url(image/Banner\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 586px; 
+
+}
+
+.bouton{
+    background-color: black;
+    color: #fff;
+    padding: 16px 32px;
+    border-radius: 8px;
+
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.square{
+    background-color: #fff;
+    pedding: 20px;
+    height: ;class="width30">width:48%
+   
+
+
+}
