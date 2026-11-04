@@ -5,6 +5,9 @@
     height: 586px; 
 
 }
+.padding122{
+    padding-top: 122px;
+}
 
 .bouton{
     background-color: black;
@@ -19,12 +22,26 @@
     flex-wrap: wrap;
 }
 
-
-.square{
-    background-color: #fff;
-    pedding: 20px;
-    height: ;class="width30">width:48%
-   
-
-
+.between{
+    justify-content: space-between;
 }
+
+.align-center{ 
+    align-items: center;
+}
+
+.contenaire{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.carre-blanc {
+    width: : 100px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+}
+
+.w25{ 
+    width: 25%;
+}
+
